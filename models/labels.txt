@@ -1,0 +1,5 @@
+drizzle
+fog
+rain
+snow
+sun
